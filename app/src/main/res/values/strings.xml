@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="mobil_name">Nama Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="logout">Keluar cari angin\n</string>
+    <string name="profil">PROFIL</string>
+    <string-array name="data_name">
+        <item>ESTILO</item>
+        <item>G-CLASS</item>
+        <item>GTR R35</item>
+        <item>JIMNY Katana</item>
+        <item>SUPRA MK-4</item>
+        <item>SILVIA S-15</item>
+        <item>AE 86 Trueno</item>
+        <item>LAND CRUISER 70</item>
+        <item>LAND ROVER DEFENDER</item>
+        <item>PORSCHE GT3 RS</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Honda Civic Estilo adalah mobil hatchback tiga pintu yang diluncurkan di Jepang pada September 1991. Mobil ini memiliki dimensi panjang 4.070 mm, lebar 1.695 mm, dan tinggi 1.350 mm. Mobil ini juga memiliki ground clearance atau jarak terendah ke tanah 160 mm. </item>
+        <item>Mercedes-Benz G-Class adalah SUV mewah berpenggerak empat roda berukuran sedang. Mobil ini memiliki dimensi 4662 mm x 1760 mm x 1951 m dan velg 20 inci yang mendukung penggunaan ban off road berukuran besar.</item>
+        <item>Nissan GT-R R35 adalah mobil sport yang diproduksi oleh Nissan. Mobil ini memiliki mesin VR38DETT berkapasitas 3.800 cc, V6, twin-turbo. Mesin ini mampu menghasilkan tenaga sebesar 570 hp pada 6.800 RPM dan torsi maksimum 637 Nm pada 3.300-5.800 RPM. Tenaga disalurkan ke empat roda lewat transmisi dual-clutch 6-percepatan.</item>
+        <item>Suzuki Jimny Katana adalah mobil SUV dan jeep yang diproduksi oleh Suzuki sejak tahun 1968. Mobil ini memiliki atap yang lebih tebal dan dua pintu di sisi depan serta satu pintu di belakang.</item>
+        <item>Toyota Supra MK4 adalah mobil sport ikonik yang diproduksi pada tahun 1990-an. Mobil ini memiliki desain aerodinamis dengan lampu yang sedikit membulat. Supra MK4 memiliki panjang 4.514 mm, lebar 1.811 mm, tinggi 1.275 mm, dan panjang wheel base 2.550 mm.</item>
+        <item>Nissan Silvia S15 adalah mobil sport kompak berpenggerak roda belakang buatan Nissan Motors, Jepang. Mobil ini memiliki desain bodi yang aerodinamis, dengan dimensi panjang 4.295 mm, lebar 1.755 mm, dan tinggi 1.280 mm.</item>
+        <item>Toyota AE86 Trueno adalah mobil kompak yang diproduksi dari tahun 1983 hingga 1987. Mobil ini memiliki dua pilihan mesin, yaitu 3A-U 1.500 cc dan 4A-GEU 4-silinder segaris 1.600 cc DOHC 16 katup. Tenaga mobil ini dapat mencapai 128 hp dengan torsi 149 Nm.</item>
+        <item>Toyota Land Cruiser 70 adalah mobil SUV dengan bodi dan ukuran yang besar. Mobil ini tersedia dalam berbagai jenis, mulai dari troop carrier/hardtop (LC 78), pick up single cab (LC 79), pick up double cabin, hingga wagon.</item>
+        <item>Land Rover Defender adalah kendaraan off-road serbaguna berpenggerak 4 roda yang dikembangkan dari Land Rover Series yang telah muncul sejak tahun 1948. Defender adalah SUV 7 dan 8 seater dengan panjang 4758 mm, lebar 2008 mm, wheelbase 2587 mm. serta ground clearance 228 mm.</item>
+        <item>Porsche 911 GT3 RS adalah mobil jalan raya yang diproduksi oleh Porsche. Mobil ini memiliki mesin boxer 4.0 liter enam silinder yang mampu menghasilkan tenaga 502 HP. Mobil ini dapat berakselerasi dari 0 hingga 100 km per jam dalam waktu kurang dari tiga detik dan memiliki kecepatan tertinggi 317 km per jam.
+</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/mobil1</item>
+        <item>@drawable/mobil2</item>
+        <item>@drawable/mobil3</item>
+        <item>@drawable/mobil4</item>
+        <item>@drawable/mobil5</item>
+        <item>@drawable/mobil6</item>
+        <item>@drawable/mobil7</item>
+        <item>@drawable/mobil8</item>
+        <item>@drawable/mobil9</item>
+        <item>@drawable/mobil10</item>
+    </integer-array>
+</resources>
